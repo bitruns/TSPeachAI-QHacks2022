@@ -53,8 +53,8 @@ To conclude, our project works as expected and we hope it allows individuals to 
 
 ## Authors
 
-* **Batuhan Aktan** - [Github](https://github.com/BatuhanAktan)
 * **Matthew Sharpe** - [Github](https://github.com/bitruns)
+* **Batuhan Aktan** - [Github](https://github.com/BatuhanAktan)
 
 ## License
 
